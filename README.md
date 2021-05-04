@@ -68,8 +68,7 @@
 - JHaddix Wordlist
 - Nahamsec Wordlist
 
-#### Note: All tools can be found in directory root/tools
-#### Special thanks to nahamsec for his bbht script which can be found here https://github.com/nahamsec/bbht
+
 
 ### Installation
 - Create an account on Heroku
@@ -92,9 +91,4 @@
 - Your work does not get saved, so save it on cloud like GDrive or you can use UptimeRobot(https://uptimerobot.com/) which will ping your website so the website does not get reset in 30 minutes.
 - You cannot run as root user since Heroku assigns user id's randomly
 
-### To-Do(s)
-- Find a working solution for Go so that it gets pre-installed
-- Add Mounting/Unmounting of GDrive 
-- Add telegram notifications
-- Add more tools (Twitter DM me if you want any tools to be added https://twitter.com/vlakhani28)
 
