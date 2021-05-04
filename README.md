@@ -80,12 +80,12 @@
 - Click on "Connect" in top right corner
 - BOOM!! Your Free VPS is ready to go!
 
-### Installation Video: https://drive.google.com/file/d/1Q5Ge-2IQohLNQHkoyPkHdKenlCq9z712/view?usp=sharing
+
 
 #### Note 1 : GOLang is pre downloaded and extracted, the path is not set. In order to set it, you need to run the following command: export PATH=$PATH:/usr/local/go/bin
 #### I have made a script "run-after-go.sh", run this once GO path gets set and all necessary tools made in GOLang will be installed.
 
-#### Note 2 : You cannot install tools using terminal. To install any tool fork my repo: https://github.com/vlakhani28/bbht and add/delete tools you want to. Remember to change Line Number 61 in Dockerfile of the repo "vps-new" and add the link of newly forked repository.
+
 
 ### Limitation(s)
 - If left untouched for 30-45 minutes, it gets reset. 
@@ -98,4 +98,3 @@
 - Add telegram notifications
 - Add more tools (Twitter DM me if you want any tools to be added https://twitter.com/vlakhani28)
 
-##### Note: The orignal code is https://github.com/RixEtte/heroku-vnc, I just modified it a bit to make this set up for Bug Bounty Hunting.
